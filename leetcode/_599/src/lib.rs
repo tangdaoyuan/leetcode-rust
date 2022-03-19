@@ -1,6 +1,6 @@
 #![allow(overflowing_literals)]
 #![allow(dead_code)]
-// 599 两个列表的最小索引总和
+// 599.两个列表的最小索引总和
 
 use std::collections::HashMap;
 

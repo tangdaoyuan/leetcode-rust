@@ -2,7 +2,7 @@
 
 
 ```
-setup
+run
 
 cargo test
 ```
