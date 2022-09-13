@@ -1,8 +1,8 @@
 # leetcode-rust
 
 
-```
-run
+## Run it
 
+```bash
 cargo test
 ```
