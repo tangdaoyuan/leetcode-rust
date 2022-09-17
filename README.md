@@ -6,3 +6,7 @@
 ```bash
 cargo test
 ```
+
+## TODO
+
+- [ ] Switch to nightly channel
