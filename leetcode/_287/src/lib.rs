@@ -14,7 +14,7 @@ impl Solution {
 
         slow = 0;
 
-        while (slow != fast) {
+        while slow != fast {
             slow = nums[slow] as usize;
             fast = nums[fast] as usize;
         }
